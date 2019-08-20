@@ -1,1 +1,1 @@
-multiply = 8 * 7
+multiply = var1 * var2
