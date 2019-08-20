@@ -10,5 +10,4 @@ let random = Math.random()
 
 
 // max will return 20 as the highest number in the set
-//let cherry = 
 const max = Math.max(3, 17, 9, 12, 20, 0)
