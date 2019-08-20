@@ -5,3 +5,9 @@ const multiply = var1 * var2
 
 //random generates a random integer greater than 0
 let random = Math.random()
+
+//mod generates a remainder that is equal to 4
+
+
+// max will return 20 as the highest number in the set
+const max = (3, 17, 9, 12, 20, 0)
