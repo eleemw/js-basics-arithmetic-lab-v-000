@@ -10,4 +10,4 @@ let random = Math.random()
 
 
 // max will return 20 as the highest number in the set
-const max = (3, 17, 9, 12, 20, 0)
+const max = {3, 17, 9, 12, 20, 0}
