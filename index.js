@@ -1,1 +1,1 @@
-// Write your code here
+multiply = 8 * 7
